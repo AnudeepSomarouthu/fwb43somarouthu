@@ -13,8 +13,17 @@
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
   },
+  "description": "Hello Heroku",
   "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnudeepSomarouthu/fwb43somarouthu.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/AnudeepSomarouthu/fwb43somarouthu/issues"
+  },
+  "homepage": "https://github.com/AnudeepSomarouthu/fwb43somarouthu#readme"
 }
